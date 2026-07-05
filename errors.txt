@@ -1,0 +1,18 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 25: expected 'simple_expression' not found.
+    zoom: 0.6
+        ^
+
+File "game/script.rpy", line 34: expected 'simple_expression' not found.
+    zoom: 0.6
+        ^
+
+File "game/script.rpy", line 41: expected 'simple_expression' not found.
+    zoom: 0.6
+        ^
+
+Ren'Py Version: Ren'Py 8.5.2.26010301
+Sun Jul  5 17:16:58 2026
